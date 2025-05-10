@@ -19,5 +19,6 @@ This is a simple Java program that prints a hollow rectangle star pattern. The p
 
 4. Printing:
    - The stars are printed for the border ( first and last rows, first and last columns), and spaces are printed inside the rectangle to create the hollow shape.
-# Output
+# Output:
+![Hollow Rectangle Output](screenshots/hollow_rectangle_output.png)
    
