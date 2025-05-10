@@ -1,7 +1,7 @@
 # Java-Pattern-Programs
 Basic java programs to practice loops
 
-# Hollow Rectangle Pttern Program in Java
+# Hollow Rectangle Pattern Program in Java
 This is a simple Java program that prints a hollow rectangle star pattern. The program uses loops to create the border of the rectangle with stars ('*'), leaving spaces inside to make it hollow.
 # Code Explanation:
 1. Variables:
